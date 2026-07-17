@@ -14,7 +14,7 @@ A full-stack MERN application that helps users track nutrition, monitor health p
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** https://nutrition-assistant-srnd.vercel.app/
+🔗 **Live Website:** [https://nutrition-assistant-srnd.vercel.app/](https://nutrition-assistant-theta.vercel.app/)
 
 ---
 
