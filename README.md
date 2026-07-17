@@ -28,54 +28,110 @@ A full-stack MERN application that helps users track nutrition, monitor health p
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 - React.js
 - React Router
 - Axios
 - Bootstrap 5
 - Recharts
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 - JWT Authentication
 - Bcrypt
 - Multer
 
-**Database**
+### Database
 - MongoDB Atlas
 - Mongoose
 
 ---
 
+## 📂 Project Structure
+
+```text
+Nutrition-Assistant/
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   └── package.json
+│
+└── README.md
+```
+
+---
+
 ## 🚀 Quick Start
+
+### Clone Repository
 
 ```bash
 git clone <repository-url>
 cd Nutrition-Assistant
+```
 
-# Backend
+### Backend Setup
+
+```bash
 cd server
 npm install
 npm run dev
+```
 
-# Frontend
+### Frontend Setup
+
+```bash
 cd client
 npm install
 npm run dev
-👨‍💻 Developed By
+```
 
-ACHYUTHA SAI
+---
 
-B.Tech CSE | MERN Stack Developer
+## 🎯 User Roles
 
+### 👤 User
+- Track meals and nutrition
+- Monitor BMI and health progress
+- View personalized meal plans
+- Receive AI-based recommendations
 
-Also remove all these lines from your README because they should not be public:
+### 👨‍⚕️ Dietitian
+- Manage assigned clients
+- Create and update meal plans
+- Monitor client progress
 
-- Merge conflict markers (`<<<<<<< HEAD`, `=======`, `>>>>>>>`)
-- Sample login credentials
-- JWT secret values
-- Internal development notes
-- Seeded passwords
+### 🛡️ Admin
+- Manage users and dietitians
+- View platform analytics
+- Monitor system activity
 
-These should never be uploaded to a public GitHub repository.
+---
+
+## 🌟 Highlights
+
+- Secure Role-Based Access Control
+- Responsive Design
+- Modern Dashboard UI
+- RESTful API Architecture
+- Data Visualization with Charts
+- Scalable MERN Stack Architecture
+
+---
+
+## 👨‍💻 Developed By
+
+### ACHYUTHA SAI
+
+**B.Tech CSE | MERN Stack Developer**
+
+Building modern web applications using the MERN Stack.
