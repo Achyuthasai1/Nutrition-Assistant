@@ -1,4 +1,4 @@
-# 🥗 NutriSync AI
+# 🥗 Nutrition Assistant
 
 ### Smart Nutrition & Wellness Management Platform
 
