@@ -18,7 +18,6 @@ A full-stack MERN application that helps users track nutrition, monitor health p
 - 👤 User Nutrition Dashboard
 - 🥗 Personalized Meal Plans
 - 📈 BMI & Progress Tracking
-- 🤖 AI Nutrition Recommendations
 - 👨‍⚕️ Dietitian Management Panel
 - 🛡️ Admin Analytics Dashboard
 - 📄 PDF & CSV Export
@@ -103,7 +102,7 @@ npm run dev
 - Track meals and nutrition
 - Monitor BMI and health progress
 - View personalized meal plans
-- Receive AI-based recommendations
+
 
 ### 👨‍⚕️ Dietitian
 - Manage assigned clients
